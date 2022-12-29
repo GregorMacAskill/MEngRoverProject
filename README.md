@@ -8,4 +8,11 @@ Developed by Gregor MacAskill for the University of Glasgow in accordance with t
 - RoverC / RoverC Pro
 - Grove 9 DoF IMU or 6 DoF IMU + Magnetometer
 ## How to Use this Repository
+### Commanding Rover
+### IMU Data Acquisition
+### IMU Data Calibration
+### Mahony Filter
+### Data Processing
+### Video Analysis
+
 ## Dependencies and Compatibility
