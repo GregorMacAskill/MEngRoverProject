@@ -24,7 +24,7 @@ Below is a list of required components to fully utilise the functionality of thi
 
 Note that any hardware continaing a combination of accelerometer, gyroscope, and magentometer (be it standalone or integrated) is acceptable, however, the sensor data retrieval code may need to be altered to accomodate different hardware. For this project, a [Grove - IMU 9 DoF v2.0](https://wiki.seeedstudio.com/Grove-IMU_9DOF_v2.0/) from Seeed Studio was used.
 
-## How to Use this Repository
+## Contents of this Repository
 ### Commanding Rover
 ### IMU Data Acquisition
 ### IMU Data Calibration
