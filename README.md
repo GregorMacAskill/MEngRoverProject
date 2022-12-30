@@ -4,6 +4,14 @@ Developed by Gregor MacAskill for the University of Glasgow in accordance with t
 
 ## Overview of the Project
 The objectives of this project are as follows:
+- To develop a six degrees-of-freedom mathematical model of a rover with four mecanum wheels.
+- To experimentally validate a simplified three degree-of-freedom portion of this model.
+- To design and test a suitable control system for the rover using the validated simulation.
+- To implement this control system on physical rover hardware and assess its performance.
+
+<!-- END LIST -->
+
+In the process of achieving these objectives, code has been generated to carry out a wide range of processes. All of the code needed to replicate the tests and results of this project are available in this repository and are described below.
 
 
 ## Bill of Materials
