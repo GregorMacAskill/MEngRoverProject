@@ -8,7 +8,10 @@ Developed by Gregor MacAskill for the University of Glasgow in accordance with t
 Below is a list of required components to fully utilise the functionality of this library:
 - M5StickC / M5StickCPlus
 - RoverC / RoverC Pro
-- Grove 9 DoF IMU or 6 DoF IMU + Magnetometer <br />
+- Grove 9 DoF IMU or 6 DoF IMU + Magnetometer 
+
+<!-- END LIST -->
+
 Note that any hardware continaing a combination of accelerometer, gyroscope, and magentometer (be it standalone or integrated) is acceptable, however, the sensor data retrieval code may need to be altered to accomodate different hardware. For this project, a [Grove - IMU 9 DoF v2.0](https://wiki.seeedstudio.com/Grove-IMU_9DOF_v2.0/) from Seeed Studio was used.
 
 ## How to Use this Repository
