@@ -11,7 +11,7 @@ The objectives of this project are as follows:
 
 <!-- END LIST -->
 
-In the process of achieving these objectives, code has been generated to carry out a wide range of processes. All of the code needed to replicate the tests and results of this project are available in this repository and are described below.
+In the process of achieving these objectives, a large amount of code (MATLAB, Python, C++) has been generated to carry out a wide range of processes. All of the code needed to replicate the tests and results of this project are available in this repository and are described below.
 
 
 ## Bill of Materials
